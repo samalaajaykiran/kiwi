@@ -1,8 +1,11 @@
+
 #It's a JAVA Program
 #stdio.in 
 import java.util.Scanner;
 
+
 public class Main {
+
 
   // Returns a letter grade based on the average
   static char gradeFunction(double avg) {
@@ -43,3 +46,4 @@ public class Main {
     scanner.close();
   }
 }
+#done
